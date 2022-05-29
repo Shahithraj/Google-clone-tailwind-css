@@ -40,12 +40,12 @@ const HeaderTitle: FC<Props> = ({ selected }) => {
           selected={selected === "/news"}
           link="/news"
         />
-        <SingleTitle
+        {/* <SingleTitle
           Icon={MapIcon}
           title="Maps"
           selected={selected === "/maps"}
           link="/maps"
-        />
+        /> */}
         <SingleTitle
           Icon={DotsVerticalIcon}
           title="More"
