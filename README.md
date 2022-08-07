@@ -1,4 +1,4 @@
-## Netlify url - https://kaleidoscopic-kataifi-e623aa.netlify.app/
+## Netlify url -https://google-shahith.netlify.app/
 
 # Getting Started with Create React App
 
